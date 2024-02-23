@@ -1,21 +1,17 @@
 # Web VENTORRILLO PATASCORTAS - Málaga
 
-# Instalación
+![Foto del lugar](./images/PT_BG.jpg)
+
+## Instalación
 
 1. Clona este repositorio en tu máquina local:
-   """
-   git clone https://github.com/Kaostiko/patascortas.git
-   """
+   `git clone https://github.com/Kaostiko/patascortas.git`
 
 2. Instala las dependencias del proyecto utilizando npm:
-   """
-   npm install
-   """
+   `npm install`
 
 3. Inicia el servidor de desarrollo:
-   """
-   npm run dev
-   ""
+   `npm run dev`
 
 ## Documentación de las Dependencias
 
@@ -32,7 +28,3 @@ Si deseas contribuir al proyecto, por favor sigue estos pasos:
 3. Realiza tus cambios y haz commit: `git commit -m 'Agrega nueva feature'`.
 4. Realiza push a la rama: `git push origin feature/nueva-feature`.
 5. Abre una pull request.
-
-```
-
-```
