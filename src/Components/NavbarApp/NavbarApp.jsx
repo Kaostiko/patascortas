@@ -6,7 +6,7 @@ import "./NavbarApp.scss";
 
 export const NavbarApp = () => {
   return (
-    <Navbar expand="lg" className="bg-body-tertiary bg-navbar" fixed="top">
+    <Navbar expand="lg" className=" bg-navbar" fixed="top">
       <Container>
         <Navbar.Brand href="#top"> Ventorrillo PatasCortas</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -14,7 +14,7 @@ export const NavbarApp = () => {
           <Nav className="me-auto text-center links">
             <Nav.Link href="#comida">Carta</Nav.Link>
             <Nav.Link href="#about_us">Sobre Nosotros</Nav.Link>
-            <Nav.Link href="#horario">Contacto</Nav.Link>
+            <Nav.Link href="#contacto">Contacto</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

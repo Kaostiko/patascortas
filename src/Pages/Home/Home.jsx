@@ -10,6 +10,9 @@ export const Home = () => {
       </Row>
       <Row className="section_food" id="comida">
         <h2>Comida</h2>
+        <a href="/pdf/menu.pdf" target="_blank" title="Menú PDF">
+          IR A LA CARTA
+        </a>
       </Row>
       <Row className="section_about_us" id="about_us">
         <div className="textos pb-3">
@@ -211,7 +214,7 @@ export const Home = () => {
           </p>
         </div>
       </Row>
-      <Row className="footer section_horario pb-5 text-center" id="horario">
+      <Row className="footer section_contacto pb-5 text-center" id="contacto">
         <h2>Contacto</h2>
         <Col className="horario pt-4">
           <Row>
