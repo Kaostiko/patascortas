@@ -6,7 +6,7 @@ export const Home = () => {
   return (
     <Col>
       <Row className="section_main">
-        <div className="nameR">Ventorrillo Patascortas Casabermeja</div>
+        <div className="nameR">Ventorrillo Patascortas</div>
       </Row>
       <Row className="section_food" id="comida">
         <h2>Comida</h2>
